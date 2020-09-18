@@ -1,7 +1,3 @@
-const openSource = {
-  githubConvertedToken: "36f5d38fee7ecdf2388241998de44fc79587bda6",
-  githubUserName: "isamsamsularip",
-};
 
 const fetch = require("node-fetch");
 var fs = require("fs");
