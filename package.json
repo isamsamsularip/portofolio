@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "portofolio",
+  "name": "portofolio-master",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",

@@ -7,9 +7,9 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "PORTOFOLIO",
-  logo_name: "ISAM SAMSUL ARIP",
-  nickname: "isam",
+  title: "Pendekar Dollar",
+  logo_name: "Pendekar Dollar",
+  nickname: "dollarpendekar",
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
